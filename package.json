@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-api-sample",
+  "version": "1.0.0",
+  "description": "node.js api sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taroshuntaro/nodejs-api-sample.git"
+  },
+  "author": "taroshuntaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taroshuntaro/nodejs-api-sample/issues"
+  },
+  "homepage": "https://github.com/taroshuntaro/nodejs-api-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
